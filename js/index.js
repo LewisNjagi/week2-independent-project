@@ -31,3 +31,4 @@ function akan() {
     } else if (gender === "female") {
         alert("Your Akan female name is" + femaleName[day]);
     }
+}
