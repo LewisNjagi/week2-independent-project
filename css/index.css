@@ -28,40 +28,13 @@ html {
     height: 500px;
     margin-top: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.display2 {
+    font-size: 20px;
+}
+h5 {
+    font-weight: bold;
+    text-align: center;
+}
 .parallax {
     background-image: url(/img/Slow\ Linear\ .png);   
     min-height: 300px; 
