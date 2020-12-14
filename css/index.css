@@ -43,6 +43,14 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.card {
+    width: 47rem;
+    align-self: center;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+    background-color: rgb(211, 141, 49);
+}
 
 
 
