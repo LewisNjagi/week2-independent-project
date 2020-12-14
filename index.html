@@ -93,5 +93,28 @@
           </div>
         </div>
     </div>
+    <div class="card">
+        <form> 
+          <div class="form-group">
+            <label for="exampleFormControlInput1">Century</label>
+            <input type="number" class="form-control" id="century" placeholder="eg 19" required  min="19"/>
+          </div>
+          <div>
+            <label for="exampleFormControlInput1">Year</label>
+            <input type="number" class="form-control" id="year" placeholder="eg 19'90'" required  min="1111"/>
+          </div>          
+          <div class="form-group">
+            <label for="exampleFormControlInput1">Month</label>
+            <input type="number" class="form-control" id="month" placeholder="eg 5" required max="12" min="1"/>
+          </div>          
+          <div class="form-group">
+            <label for="exampleFormControlInput1">Day</label>
+            <input type="number" class="form-control" id="day" placeholder="eg 24" required max="31" min="1"/>
+          </div>               
+          <button onclick="akan()" type="button" class="btn btn-success">
+            Submit
+          </button>        
+        </form>
+      </div> 
   </body>
 </html>
