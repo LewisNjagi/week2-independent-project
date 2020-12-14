@@ -16,6 +16,18 @@ html {
     font-size: 20px;
     margin-left: 40px;
 }
+.carousel-inner {
+    width: 100%;
+    height: 100%;
+}
+.my-row1 {
+    height: 100px;
+    margin-top: 50px;
+}
+.my-row2 {
+    height: 500px;
+    margin-top: 50px;
+}
 
 
 
