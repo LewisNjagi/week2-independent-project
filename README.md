@@ -1,6 +1,6 @@
 # week2-independent-project
 Independent Project for the second week.
-# {Application Name}
+{Akan Name Generator}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
