@@ -1,23 +1,25 @@
 # week2-independent-project
 Independent Project for the second week.
-#{Akan Name Generator}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+# {Akan Name Generator}
+#### {In many parts of Ghana, and elsewhere in West Africa, a person’s name is determined by the day of the week on which she/he was born.}, {14 December 2020}
+#### By **{Lewis Njagi}**
+## Akan Name Generator
+{This application is generates your Akan name based on the users gender and input of birthday's year, month and date of the month, generating a Akan Name based on the day of the week/}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Computer - 4 GHz minimum, multi-core processor.
+* RAM - At least 4GB, preferably higher, and comensurate with concurrent usage.
+* Hard Disk Space - At least 10 GB.
+* Operating system - Windows Server 2012 R2 or above.
+* Browser Compatibility - Microsoft Edge, Mozilla Firefox, Google Chrome, Safari.
+* Smartphone - Android or ios operating system smartphone.
+{It is easy for potential users, employers and collaborators can ru the app. No server and depencies needed. This app does not need to run on any code.}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{On a invalid input of the user's data, an alert will pop up but you will still have an Akan name generated even after an invalid input}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{HTML, CSS and Javascript. I installed a parallax.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{If you run into any issues or have questions, ideas or concerns. 
+Contact me on my email at lewismaybach@gmail.com.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{Am MIT license is used in this application.}*
+Copyright (c) {year} **{Lewis Njagi}**
