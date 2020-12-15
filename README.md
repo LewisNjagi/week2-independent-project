@@ -22,4 +22,4 @@ Independent Project for the second week.
 Contact me on my email at lewismaybach@gmail.com.}
 ### License
 *{Am MIT license is used in this application.}*
-Copyright (c) {year} **{Lewis Njagi}**
+Copyright (c) {2020} **{Lewis Njagi}**
